@@ -9,4 +9,3 @@ i love python (insert sarcasm)
 # Some cool stuff I made
 [PowerCrypter](https://github.com/DaRealElementus/Power_crypter)<br>
 [Time Traveller](https://github.com/DaRealElementus/TimeTraveller)<br>
-[Shadows of the Past](https://github.com/DaRealElementus/Fantasy-Land-2023_Year-10)
