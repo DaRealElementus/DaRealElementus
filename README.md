@@ -4,7 +4,7 @@ my love for gamedev stemmed from Halo 4, it simply amazed me how 343i put such a
 i love python (insert sarcasm)
 
 # Most recent addiction
-[Project Sigmund](https://github.com/DaRealElementus/Project-Sigmund)
+## [Project Sigmund](https://github.com/DaRealElementus/Project-Sigmund)
 
 # Some cool stuff I made
 [PowerCrypter](https://github.com/DaRealElementus/Power_crypter)<br>
