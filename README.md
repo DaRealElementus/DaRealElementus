@@ -3,6 +3,9 @@ I started programming in 2018 on scratch.mit.edu (like most people) under the gu
 my love for gamedev stemmed from Halo 4, it simply amazed me how 343i put such a resouce intensive game onto an outdating hardware. <br>
 i love python (insert sarcasm)
 
+# Most recent addiction
+[Project Sigmund](https://github.com/DaRealElementus/Project-Sigmund)
+
 # Some cool stuff I made
 [PowerCrypter](https://github.com/DaRealElementus/Power_crypter)<br>
 [Time Traveller](https://github.com/DaRealElementus/TimeTraveller)<br>
